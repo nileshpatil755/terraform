@@ -1,5 +1,6 @@
-# This is terrform code for creating three tier application in AWS. Refer to high level architecture diagram "Three_Tier_Architecture.png" at root level of terraform repository.
+# This terrform code is for creating three tier application in AWS. Refer to high level architecture diagram "Three_Tier_Architecture.png" at the root level of terraform repository.
 # All terraform and bash scripts are placed inside directory "three-tier-app"
+
 This terraform script will create below components:
 1) EC2 Instance
 2) RDS Instance
